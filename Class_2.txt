@@ -1,0 +1,10 @@
+Computational Thinking Continued
+1. What is Pseudocode?
+2. How do we create Pseudocode?
+3. Is there rules to forming Pseudocode?
+4. What is Fizzbuzz?
+5. What is Algorithm?
+6. What is Data Structure?
+7. What kind of alignment and sorting are there?
+8. What are the importance of the big 0 Notations?
+

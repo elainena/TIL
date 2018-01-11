@@ -1,0 +1,4 @@
+Computer Science Basics
+1. What is Computer?
+2. History of Computer Development
+3. Computational Thinking Process

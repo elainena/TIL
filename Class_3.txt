@@ -1,0 +1,15 @@
+History
+1. When was Linux developed?
+2. Why was it developed?
+3. How did it become one of the most well-used OS?
+4. How does it relate to Unix and GNU?
+5. What is kernel?
+6. What is shell command?
+7. What is chmod and how does it work with the numbering system?
+8. What is python?
+9. What are git processes?
+10. Is git and github the same? Why not?
+11. What is branch?
+12. What is git flow strategy?
+13. What are different steps to merge and collaborate on github?
+

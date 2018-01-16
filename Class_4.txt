@@ -1,0 +1,12 @@
+Network
+1. What are the characteristics of network?
+2. What is the difference between LAN, MAN, and WAN?
+3. Is 802.11 and wifi the same? Why? or why not?
+4. Who makes the standards?
+5. What kinds of network topology are there?
+6. What is Ethernet?
+7. What is Network OSI7 Layer?
+8. What is HTTP?
+9. What is the difference between TCP and UDP?
+10. What is the difference between Strean and Datagram?
+11. What is socket?

@@ -1,0 +1,12 @@
+Change in Web Developmment
+1. When did web development begin?
+2. What language are we using today to develop?
+3. What kind of browsers were there till now?
+4. What is web architecture?
+5. What is the difference between the client-side, server-side, and database  development?
+6. What is the difference between URI, URL, URN?
+7. What is an API?
+8. What is the REST?
+9. What are the pros and cons of REST?
+10. HTTP vs REST?
+

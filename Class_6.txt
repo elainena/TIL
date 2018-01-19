@@ -1,0 +1,8 @@
+Web Standard and Web Accessibility (HTML&CSS)
+1. What is Internet?
+2. What does WWW represent?
+3. What is the difference between the back-end and the front-end?
+4. What are some Front-end development tools?
+5. Who makes web standards?
+6. What is web Accessibility?
+7. What does HTML and CSS do?

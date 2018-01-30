@@ -28,4 +28,4 @@
 <h3>Week4: Javascript</h3>  
 
 1. Class 16: Programming language, computational thinking, and Javascript Introduction  
-  
+2. Class 17: Javascript Data Type & Variable, Operator, and Control Flow    

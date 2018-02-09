@@ -255,3 +255,269 @@
 - 대규모 프로젝트에 적응하기 힘듦
 
 ---
+
+<h2>Spiral Model</h2>
+
+![](./img/spiral.png)
+
+---
+
+<h2>Spiral Model</h2>
+
+- 대규모 or 고비용 프로젝트
+- 프로젝트의 위험요인을 제거해 나갈 수 있음
+- 각 단계가 명확하지 않음
+
+---
+
+<h2>이외에도...</h2>
+
+- RAD (Rapid Application Development) Model
+- Iterative Development Model
+- V Model
+- Component Based Development
+
+---
+
+<h2>Software Development Process </h2>
+
+- in Agile
+	- Agility
+	- 
+
+<h2>UP (Unified Process)</h2>
+
+- 도입 (분석위주), 상세 (설계위주), 구축 (구현위주), 이행 (최종 릴리즈)의 반복
+
+<h2>XP(eXtreme Process)</h2>
+
+- 스크럼 마스터가 주도적으로 프로세스를 주도하며, 고객과 개발자 사이의 소통을 중시함
+- Product Owner와 Development Team, Customer로 롤을 구분하고 각자의 역할에 충식
+- TDD 중시
+
+---
+
+<h2>TDD</h2>
+<h3>Test Driven Development</h3>
+
+- 객체지향적
+- 재설계 시간 단축
+- 디버깅 시간 단축
+- 애자일과의 시너지 (사용자 중심적)
+- 테스트 문서 대체
+- 추가 구현 용이  
+
+
+- 테스트코드를 먼저 짜야한다**
+
+---
+
+<h2>Database</h2>
+<h3>data</h3>
+
+- 컴퓨터가 처리할 수 있는 문자, 숫자, 소리, 그림 따위의 형태로 된 정보
+- Latin "Datum"의 복수형 "Data"에서 유래
+
+---
+
+<h2>Database</h2>
+
+- 체계화된 데이터의 모임
+- 여러 응용 시스템들의 통합된 정보들을 저장하여 운영할 수 있는 공용 데이터들의 묶음
+
+---
+
+<h2>DB? DBMS?</h2>
+
+DBMS(DataBase Management System)
+- 데이터의 모임인 Database를 만들고, 저장, 관리 할 수 있는 기능을 제공하는 응용프로그램
+- Oracle, Mysql, MariaDB, DB2, MS SQL, Server, ..
+
+---
+
+<h2>DBMS의 조상님</h2>
+
+---
+
+dBase
+- 마이크로컴퓨터용 최초의 DBMS
+- 1979년 Ashton이 개발
+- SQL이 아닌 독자 스크립터 언어로 실행 -> dbf파일 생성
+
+---
+
+<h2>Characteristics</h2>
+
+- 데이터의 무결성
+- 데이터의 중복 방지
+- 보안 (추상화, 접근권한)
+- 성능 향상
+- 프로그램 수정과 유지 보수 용이
+
+---
+
+<h2>Differences between DataBase & File System</h2>
+
+자기 기술성  
+File System
+
+- .hwp -> 한글
+- .doc -> Microsoft Word
+- .xls -> Microsoft Excel
+
+DB
+
+- Only SQL (RDBMS)
+
+---
+
+![](./img/db1.jpeg)
+
+---
+
+![](./img/db2.jpeg)
+
+---
+
+<h2>SQL(Structured Query Language)</h2>
+
+데이터 관리를 위해 설계된 특수 목적의 프로그래밍 언어   
+
+![](./img/sql.png)
+
+---
+
+<h2>SQL- 데이터 정의언어</h2>
+
+<h3>데이터를 정의</h3>  
+CREATE- DB 개체 정의   
+DROP- DB 개체 삭제   
+ALTER- DB개체 정의 변경
+
+---
+
+<h2>SQL- 데이터 조작언어</h2>
+
+<h3>데이터 검색, 등록, 삭제, 갱신</h3>
+
+INSERT - 행, 테이블 데이터 삽입   
+UPDATE - 테이블 업데이트   
+DELETE - 특정 행 삭제   
+SELECT - 테이블 검색 결과 집합
+
+---
+
+<h2>데이터 제어 언어</h2>
+
+<h3>데이터 엑세스 제어</h3>
+
+GRANT - 작업 수행권한 부여   
+REVOKE - 권한 박탈
+
+---
+
+<h2>RDBMS vs NoSQL</h2>
+
+![](./img/RDBMSvsNoSQL.png)
+
+---
+
+<h2>RDBMS</h2>
+
+![](./img/RDBMS.png)
+
+---
+
+![](./img/Table.png)
+
+---
+
+<h2>NoSQL</h2>
+
+![](./img/NoSQL.png)
+
+---
+
+<h2>Document vs Key-value</h2>
+
+![](./img/Documentvskeyvalue.png)
+
+---
+
+<h2>How to Design Database?</h2>
+
+---
+
+<h2>Schema</h2>
+
+- Database의 구조와 제약조건에 대한 전반적인 명세 기술
+- Database의 Blueprint
+- 외부(서브)스키마, 개념스키마, 내부스키마로 구성
+
+---
+
+<h2>외부(서브) 스키마</h2>
+
+- 프로그램 사용자가 필요로 하는 데이터베이스의 논리적인 구조를 정의
+
+---
+
+<h2>개념 스키마</h2>
+
+- 조직 전체의 관점에서의 구조의 관게를 정의
+- 외부 스키마의 합과 그 사이의 데이터의 관계 등등
+- 일반적인 스키마의 정의
+
+---
+
+<h2>내부 스키마</h2>
+
+- 저장장치의 입장에서 데이터베이스가 저장되는 방법을 기술
+
+---
+
+![](./img/schema.png)
+
+---
+
+<h2>Design Database</h2>
+
+![](./img/DesignDatabase.png)
+
+---
+
+<h2>SQLite</h2>
+
+---
+
+<h2>SQLite with python</h2>
+
+---
+
+<h2>SQLite - check sqlite version</h2>
+
+![](./img/sqlitecheck.png)
+
+---
+
+<h2>SQLite - Create table</h2>
+
+![](./img/sqlitecreate.png)
+
+---
+
+<h2>SQLite ‐ Create table & Insert User</h2>
+
+![](./img/sqliteinsert.png)
+
+---
+
+<h2>SQLite - insert data</h2>
+
+- sqlite3.connect 메소드를 이용해서 DB 파일에 연결한 후 'Connection' 객체를 생성한다.
+- Connection객체를 통해 Cursor 객체를 생성한다.
+- 'Cursor' 객체의 execute 메소드를 통해서 query를 실행한다
+- 'Connection' 객체의 commit를 이용하여 변경된 내용을 commit한다.
+- DB와의 연결을 닫는다
+
+---

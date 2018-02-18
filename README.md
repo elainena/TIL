@@ -27,5 +27,10 @@
 
 <h3>Week4: Javascript</h3>  
 
-1. Class 16: Programming language, computational thinking, and Javascript Introduction  
-2. Class 17: Javascript Data Type & Variable, Operator, and Control Flow    
+1. Day 1:  Programming language, computational thinking, and Javascript Introduction  
+2. Day 2: Javascript Data Type & Variable, Operator, and Control Flow    
+3. Day 3: Javascript Object, Function, Prototype  
+4. Day 4: Javascript Prototype continued, Scope, this  
+5. Day 5: Javascript Built-in object, Standard Built-in Objects, String, Date  
+6. Day 6: Javascript Number, Math, RegExp, Array  
+7. Day 7: Javascript Array continued, Execution Context, Closure  

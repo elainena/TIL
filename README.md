@@ -33,4 +33,5 @@
 4. Day 4: Javascript Prototype continued, Scope, this  
 5. Day 5: Javascript Built-in object, Standard Built-in Objects, String, Date  
 6. Day 6: Javascript Number, Math, RegExp, Array  
-7. Day 7: Javascript Array continued, Execution Context, Closure  
+7. Day 7: Javascript Array continued, Execution Context, and Closure  
+8. Day 8: Javascript DOM, Asynchronous Processing Model, and Event  

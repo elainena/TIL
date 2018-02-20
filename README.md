@@ -35,3 +35,5 @@
 6. Day 6: Javascript Number, Math, RegExp, Array  
 7. Day 7: Javascript Array continued, Execution Context, and Closure  
 8. Day 8: Javascript DOM, Asynchronous Processing Model, and Event  
+9. Day 9: Javascript Array continued, TodoAppV0 Practice  
+  

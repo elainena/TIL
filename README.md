@@ -36,5 +36,5 @@
 7. Day 7: Javascript Array continued, Execution Context, and Closure  
 8. Day 8: Javascript DOM, Asynchronous Processing Model, and Event  
 9. Day 9: Javascript Array continued, TodoAppV0 Practice  
-10. Day 10: Javascript AJAX and REST API  
+10. Day 10: Javascript AJAX and TodoV0 Practice     
   

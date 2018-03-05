@@ -39,4 +39,11 @@
 10. Day 10: Javascript AJAX and TodoV0 Practice     
 11. Day 11: AJAX continued, REST API, and TodoV0 Practice  
 12. Day 12: ES6 let, const, Template literals, and Arrow function  
-13. Day 13: ES6 Extended Parameter Handling, Enhanced Object Property, Destructuring, and Class   
+13. Day 13: ES6 Extended Parameter Handling, Enhanced Object Property, Destructuring, and Class  
+14. Day 14: ES6 Class continued..., Promise, Module, and Babel + Webpack  
+
+---
+
+<h3>Week9: Node.js, Express, and Typescript</h3>  
+
+1.    

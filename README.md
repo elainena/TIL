@@ -46,5 +46,7 @@
 
 <h3>Week9: Node.js, Express, and Typescript</h3>  
 
-1. Node.js Basics and Express Basics  
+1. Node.js Basics and Express Basics   
+2. MongoDB Usage and TodoV3 using axios  
+3. TypeScript Introduction 
     

@@ -48,5 +48,6 @@
 
 1. Node.js Basics and Express Basics   
 2. MongoDB Usage and TodoV3 using axios  
-3. TypeScript Introduction 
+3. TypeScript Introduction, Typing, Class, Interface, and Generic  
+ 
     

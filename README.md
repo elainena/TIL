@@ -44,10 +44,14 @@
 
 ---
 
-<h3>Week9: Node.js, Express, and Typescript</h3>  
+<h3>Week9: Node.js, Express, Typescript, and Angular</h3>  
 
 1. Node.js Basics and Express Basics   
 2. MongoDB Usage and TodoV3 using axios  
 3. TypeScript Introduction, Typing, Class, Interface, and Generic    
 4. Angular Basics, CLI, Architecture, Component(Basics and Template)   
     
+---
+
+<h3>Week10: </h3>  
+

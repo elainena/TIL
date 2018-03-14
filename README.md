@@ -54,6 +54,7 @@
 ---
 
 <h3>Week10: Angular</h3>  
+
 1. Angular Component - Template, Data Binding, and Built-in Directive  
 2. Angular Component - Template reference variable & Template expression operator, Interaction, Accessing Child, Style  
  
